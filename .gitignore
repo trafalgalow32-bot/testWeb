@@ -1,0 +1,18 @@
+# 컴파일된 결과물 (내 소스 코드가 아니므로 제외)
+bin/
+build/
+target/
+
+# 이클립스 설정 파일 (개인 PC 환경에 따라 다르므로 제외)
+.settings/
+.project
+.classpath
+.metadata/
+
+# 서버 설정 (로컬 톰캣 설정이므로 제외)
+Servers/
+
+# OS 및 에디터 관련
+.DS_Store
+Thumbs.db
+.vscode/
